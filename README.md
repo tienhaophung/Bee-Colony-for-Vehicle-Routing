@@ -40,7 +40,7 @@ where:
 - k: the number of output solutions
 - c: the capacity of each vehicle
 - iter: the number of iterations
-- lim: the permissaile limit iteration of each food source which quality has not been improved
+- lim: the permissable limit iteration of each food source which quality has not been improved
 - ft_ga: enable to combine bee and ga.
 
 ## 3. Standard benchmark 
